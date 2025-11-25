@@ -1,0 +1,5 @@
+cat > requirements.txt << 'EOF'
+requests==2.31.0
+colorama==0.4.6
+python-cfonts==1.4.0
+EOF
